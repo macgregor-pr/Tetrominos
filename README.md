@@ -6,5 +6,5 @@ Looking back on it, creating this as a Java applet was a mistake, and it's unlik
 - Have a JDK > 7 on your path.
 - cd uk\co\pmacg\tetrominos\
 - javac *
-- cd ..\..\..\..
+- cd ..\\..\\..\\..
 - appletviewer tetrominos.html
